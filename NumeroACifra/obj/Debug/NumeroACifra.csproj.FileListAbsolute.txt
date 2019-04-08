@@ -1,0 +1,7 @@
+C:\GitHubRepos\NumeroACifra\NumeroACifra\NumeroACifra\bin\Debug\NumeroACifra.exe.config
+C:\GitHubRepos\NumeroACifra\NumeroACifra\NumeroACifra\bin\Debug\NumeroACifra.exe
+C:\GitHubRepos\NumeroACifra\NumeroACifra\NumeroACifra\bin\Debug\NumeroACifra.pdb
+C:\GitHubRepos\NumeroACifra\NumeroACifra\NumeroACifra\obj\Debug\NumeroACifra.csprojAssemblyReference.cache
+C:\GitHubRepos\NumeroACifra\NumeroACifra\NumeroACifra\obj\Debug\NumeroACifra.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\NumeroACifra\NumeroACifra\NumeroACifra\obj\Debug\NumeroACifra.exe
+C:\GitHubRepos\NumeroACifra\NumeroACifra\NumeroACifra\obj\Debug\NumeroACifra.pdb
